@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-08T20:48:57 IST" name="Default suite" finished-at="2022-05-08T20:49:29 IST" duration-ms="31122">
+    <groups>
+    </groups>
+    <test started-at="2022-05-08T20:48:57 IST" name="Default test" finished-at="2022-05-08T20:49:29 IST" duration-ms="31122">
+      <class name="TestData.ListenerExecution">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestData.ListenerExecution@22e357dc]" started-at="2022-05-08T20:48:57 IST" name="launchBrowser" finished-at="2022-05-08T20:49:17 IST" duration-ms="19194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="LoginWithCredential()[pri:0, instance:TestData.ListenerExecution@22e357dc]" started-at="2022-05-08T20:49:17 IST" name="LoginWithCredential" finished-at="2022-05-08T20:49:20 IST" duration-ms="3385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithCredential -->
+      </class> <!-- TestData.ListenerExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
