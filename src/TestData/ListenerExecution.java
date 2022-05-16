@@ -33,9 +33,12 @@ public class ListenerExecution extends BaseClass {
 		 login.Enterpin(ExcelData.getdata("Sheet1", 2, 1));
 		 login.ContinueButton();
 		 Assert.assertTrue(true);
+		 System.out.println("vinay here");
 	}
+	@Test
+	public void test()
 	{
-		
+		System.out.println("Github prctic");
 	}
 
 }
